@@ -83,6 +83,8 @@ The visualisation focuses on patient visits, departmental performance, billing a
 
 ## Dashboard Preview
 
+![NASASA Health General Hospitals Performance Dashboard](DASHBOARD.png)
+
 The dashboard enables management to interact with the data and identify important patterns that may support operational and financial decision-making.
 
 
