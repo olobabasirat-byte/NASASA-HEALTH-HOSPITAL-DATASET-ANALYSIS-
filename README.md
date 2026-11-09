@@ -1,7 +1,11 @@
 # NASASA HEALTH HOSPITAL DATASET ANALYSIS
 
 ## Introduction
-![]()
+
+
+![](NASASA Health Performance Dashboard.png)
+
+
 Healthcare institutions collected large volumes of data last year through patient admissions, medical consultations, billing activities, insurance claims, and other hospital operations. Analysing this data will provide valuable insights into NASASA hospital performance and support effective management decision-making for the following year.
 
 This project focuses on the analysis of patient data from NASASA HEALTH HOSPITAL using Microsoft Excel. The objective is to transform raw hospital data into meaningful insights through thorough data cleaning, proper analysis, and interactive visualisation.
