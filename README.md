@@ -3,8 +3,7 @@
 ## Introduction
 
 
-![NASASA Health General Hospitals Performance Dashboard](NASASAHealthPerformanceDashboard.png)
-
+![NASASA Health Performance Dashboard](NASASA%20Health%20Performance%20Dashboard.png)
 Healthcare institutions collected large volumes of data last year through patient admissions, medical consultations, billing activities, insurance claims, and other hospital operations. Analysing this data will provide valuable insights into NASASA hospital performance and support effective management decision-making for the following year.
 
 This project focuses on the analysis of patient data from NASASA HEALTH HOSPITAL using Microsoft Excel. The objective is to transform raw hospital data into meaningful insights through thorough data cleaning, proper analysis, and interactive visualisation.
@@ -82,9 +81,7 @@ The dashboard incorporates key performance indicators (KPIs), charts, and intera
 The visualisation focuses on patient visits, departmental performance, billing and payment status, insurance coverage, age-group distribution, and admission trends.
 
 ## Dashboard Preview
-
-![NASASA Health General Hospitals Performance Dashboard](NASASA VISUALIZATION.pdf)
-
+![NASASA Dashboard](images/NASASA_Dashboard.pdf)
 The dashboard enables management to interact with the data and identify important patterns that may support operational and financial decision-making.
 
 
